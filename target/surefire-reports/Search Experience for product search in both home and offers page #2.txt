@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Search Experience for product search in both home and offers page #2
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 16.216 s <<< FAILURE! - in Search Experience for product search in both home and offers page #2
+Search Experience for product search in both home and offers page #2.Validate product name in offers page matches with lanidng page  Time elapsed: 0.01 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Beetroot]> but was:<[No data]>
+
+Search Experience for product search in both home and offers page #2  Time elapsed: 0 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Beetroot]> but was:<[No data]>
+

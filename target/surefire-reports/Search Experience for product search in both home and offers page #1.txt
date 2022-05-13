@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Search Experience for product search in both home and offers page #1
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.446 s - in Search Experience for product search in both home and offers page #1

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Search Product, add into cart and proceed to checkout #1
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.907 s - in Search Product, add into cart and proceed to checkout #1
